@@ -1,0 +1,288 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+  width: 100%;
+  height: 100%;
+}
+.fsection_container{
+    width: 100%;
+    height: 10vh;
+    
+}
+.fsection_contact{
+    width: 50%;
+    height: 10vh;
+    background-color: green;
+    float: left;
+}
+.cont{
+    color: white;
+    font-weight: 35px;
+    text-align: center;
+    padding: 20px;
+}
+.fsection_social{
+    width: 50%;
+    height: 10vh;
+    background-color: green;
+    float: right;
+}
+.fb
+{
+    height: 31px;
+    width: 31px;
+    float: right;
+    margin-top: 15px;
+    background-size: contain;
+   
+}
+.twit
+{
+    height: 31px;
+    width: 31px;
+    float: right;
+    margin-top: 15px;
+    background-size: contain;
+}
+.linked
+{
+    height: 31px;
+    width: 31px;
+    float: right;
+    margin-top: 15px;
+    background-size: contain;
+}
+.ssection_container{
+    width: 100%;
+    height: 20vh;
+   
+}
+.ssection_logo{
+    width: 8%;
+    height: 20vh;
+    float: left;
+   margin-right: 220px;
+}
+.lgo{ 
+    height: 20vh;
+}
+.ssection_top_nav{
+    width: 100%;
+    height: 20vh;
+    
+}
+.webtitle{
+    height: 12vh ;
+    text-align: center;
+    
+}
+.ssection_nav_bar{
+    height: 6vh;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+  
+  }
+  
+  li {
+    float: left;
+
+  }
+  
+  
+  li a, .dropbtn {
+    display: inline-block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: green;
+  }
+  
+  li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .tsection_container{
+    width: 100%;
+    height: 8vh;
+  border: 1px solid red;
+   
+  }
+  .tsection_latest{
+    width: 8%;
+    height: 8vh;
+    background-color: red;
+    color: white;
+    float: left;
+  }
+  .tsection_nav_bar
+{
+    width: 92%; 
+    height: 8vh; 
+    float: right;
+    
+  }
+  .tsection_heading{
+    text-align: center;
+    padding-top:8px;
+    font-size: 16px;
+  }
+  .forsection_container{
+    width: 100%;
+    height: 40vh;
+  }
+  .fifthsection_container{
+    width: 100%;
+    height: 20vh;
+  }
+  .sexsection_container{
+    width: 80%;
+    height: 60vh;
+    margin: auto;
+  }
+  .sexsection_c0l_1{
+    width: 50%;
+    height: 60vh;  
+    float: left;
+    text-align: justify;
+  }
+  .sexsection_btn{
+    background-color: green;
+    float: right;
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 5px;
+  }
+  .sexsection_col_2{
+    width: 50%;
+    height: 60vh;
+    float: right;  
+  }
+  .elementor-button-text{
+    background-color: green;
+    color: white;
+    margin-left: 20%;
+    padding-bottom: 10px;
+    font-size: 40px;
+    margin-top: 100px;
+    
+  }
+  .fa{
+    padding-right: 10px;
+  }
+  .mar{
+    margin-left: 100px;
+    font-size: 20px;
+  }
+  .sevsection_container{
+    width: 100%;
+    height: 70vh;
+   
+  }
+  .secsection_row{
+    width: 80%;
+    height: 70vh;
+    margin: auto;
+   ;
+  }
+  .sevsection_col_1{
+    width: 50%;
+    height: 70vh;  
+    float: left;
+ 
+  }
+  .sevsection_col_2{
+    width: 50%;
+    height: 70vh;
+    float: right;
+    
+  
+  }
+  .image{
+    width: 60%;
+    height:60vh;
+    border-color: green;
+    border-width: 10px 10px 10px 10px;
+    border-color: #318F28;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 0px 10px 0px green;
+    border-image: round;
+  }
+  .hori{
+    width: 30%;
+    color: green;
+    
+  }
+  .img{
+    border-radius: 60px 60px 60px 60px;
+    border-width: 10px 10px 10px 10px;
+    border-color: #318F28;
+    box-shadow: 0px 0px 10px 0px green;
+    height:40vh;
+    width: 94%;
+    margin: 10px;
+  }
+  .eigsection_container{
+    width: 80%;
+    height: 70vh;
+   
+    margin: auto;
+  }
+  .eigsection-col-1{
+    width: 50%;
+    height: 70vh;
+   
+    float: left;
+  }
+  .eigsection-col-2{
+    width: 50%;
+    height: 70vh;
+   
+    float: right;
+  }
+  .eigsection-sec-1{
+    width: 100%;
+    height: 35vh;
+    float: right;
+  }
+  .eigsection-sec-2{
+  width: 100%;
+  height: 35vh;
+  float: right;
+ 
+}
